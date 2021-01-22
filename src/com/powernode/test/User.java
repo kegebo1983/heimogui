@@ -12,4 +12,5 @@ package com.powernode.test;
  */
 public class User {
     private int id;
+    private String name;
 }
